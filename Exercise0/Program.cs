@@ -13,6 +13,8 @@ namespace Exercise0
         public static DateTime todaysDate = DateTime.Now;
         public static DateTime yesterdaysDate = todaysDate.AddDays(-1);
         public static DateTime tomorrowsDate = todaysDate.AddDays(1);
+        
+        this is a change     
         */
 
         private static void RunExerciseOne()
